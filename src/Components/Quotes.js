@@ -3,5 +3,6 @@ import './Quotes.css';
 
 const quotes = [
     "Success doesn't just find you. You have to go out and get it.",
+    "Don't let yesterday take up too much of today.",
        
 ]
