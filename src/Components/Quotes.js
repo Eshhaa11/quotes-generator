@@ -30,7 +30,7 @@ const quotes = [
     const[quote, setQuote] = useState[quotes[0]];
 
     const generateQuote = () => {
-        
+        const randomIndex = Math.floor(Math.random() * quotes.length);
     }
     
  }
