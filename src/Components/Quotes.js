@@ -10,6 +10,7 @@ const quotes = [
     "Dream bigger. Do bigger.",
     "Don't stop when you're tired. Stop when you're done.",
     "Discipline is the bridge between goals and accomplishment.",
+    "Parents give up so much, so their children can have so much more.",
     "It's going to be hard, but hard does not mean impossible.",
     "Don't wait for opportunity. Create it.",
     "Push yourself, because no one else is going to do it for you.",
@@ -19,6 +20,6 @@ const quotes = [
     "Code is like humor. When you have to explain it, it's bad.",
     "Success usually comes to those who are too busy to be looking for it.",
     "The sacrifices parents make go unnoticed until one day, they don't — and everything makes sense.",
-    "Parents give up so much, so their children can have so much more.",
+     "First, solve the problem. Then, write the code.",
        
 ]
