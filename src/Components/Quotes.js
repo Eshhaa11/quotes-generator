@@ -10,6 +10,7 @@ const quotes = [
     "Dream bigger. Do bigger.",
     "Don't stop when you're tired. Stop when you're done.",
     "Discipline is the bridge between goals and accomplishment.",
-    "It’s going to be hard, but hard does not mean impossible.",
+    "It's going to be hard, but hard does not mean impossible.",
+    "Don’t wait for opportunity. Create it.",
        
 ]
