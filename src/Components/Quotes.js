@@ -25,3 +25,7 @@ const quotes = [
     "It's not whether you get knocked down, it's whether you get up.",
     "The best way to get started is to quit talking and begin doing.",
 ];
+
+ function Quote () => {
+    
+ }
