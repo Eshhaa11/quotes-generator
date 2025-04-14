@@ -26,6 +26,7 @@ const quotes = [
     "The best way to get started is to quit talking and begin doing.",
 ];
 
- function Quote () => {
+ function Quote () {
+    const[quote, setQuote] = useState[quotes[0]];
     
  }
