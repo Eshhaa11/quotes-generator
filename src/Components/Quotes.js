@@ -22,5 +22,6 @@ const quotes = [
     "The sacrifices parents make go unnoticed until one day, they don't — and everything makes sense.",
     "First, solve the problem. Then, write the code.",
     "Success is the sum of small efforts repeated day in and day out.",
+    "It's not whether you get knocked down, it's whether you get up.",
        
 ]
