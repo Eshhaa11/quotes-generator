@@ -16,5 +16,6 @@ const quotes = [
     "Wake up with determination. Go to bed with satisfaction.",
     "Sometimes later becomes never. Do it now.",
     "Don't watch the clock; do what it does. Keep going.",
+    "Code is like humor. When you have to explain it, it's bad.",
        
 ]
