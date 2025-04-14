@@ -42,3 +42,5 @@ const quotes = [
            </div>
   );
 };
+
+export default Quote;
