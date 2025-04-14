@@ -1,7 +1,15 @@
 .quote-cont {
     font-family: 'Segoe UI';
     text-align: center;
-    margin-top: 50px;
-    padding: 20px;
+    padding: 30px;
   }
   
+.quote-cont h1 {
+    font-family: Tahoma;
+    color: cornflowerblue;
+    margin-top: 10px;
+}
+
+
+
+
