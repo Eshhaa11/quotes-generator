@@ -13,5 +13,6 @@ const quotes = [
     "It's going to be hard, but hard does not mean impossible.",
     "Don't wait for opportunity. Create it.",
     "Push yourself, because no one else is going to do it for you.",
+    "Wake up with determination. Go to bed with satisfaction.",
        
 ]
