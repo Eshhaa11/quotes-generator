@@ -20,7 +20,8 @@
     padding: 20px;
     border-radius: 10px;
     width: fit-content;
-    position: relative
+    position: relative;
+    left: 300px;
 }
 
 
