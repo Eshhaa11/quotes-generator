@@ -21,5 +21,6 @@ const quotes = [
     "Success usually comes to those who are too busy to be looking for it.",
     "The sacrifices parents make go unnoticed until one day, they don't — and everything makes sense.",
      "First, solve the problem. Then, write the code.",
+      "Success is the sum of small efforts repeated day in and day out.",
        
 ]
