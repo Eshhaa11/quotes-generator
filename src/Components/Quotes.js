@@ -17,5 +17,6 @@ const quotes = [
     "Sometimes later becomes never. Do it now.",
     "Don't watch the clock; do what it does. Keep going.",
     "Code is like humor. When you have to explain it, it's bad.",
+     "Success usually comes to those who are too busy to be looking for it.",
        
 ]
