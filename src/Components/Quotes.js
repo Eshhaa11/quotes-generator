@@ -28,5 +28,9 @@ const quotes = [
 
  function Quote () {
     const[quote, setQuote] = useState[quotes[0]];
+
+    const generateQuote = () => {
+        
+    }
     
  }
