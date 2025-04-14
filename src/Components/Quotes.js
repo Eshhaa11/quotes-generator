@@ -31,6 +31,7 @@ const quotes = [
 
     const generateQuote = () => {
         const randomIndex = Math.floor(Math.random() * quotes.length);
+        setQuote(quotes[randomIndex]);
     }
     
  }
