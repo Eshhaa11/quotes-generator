@@ -39,7 +39,6 @@ const quotes = [
            <h1>Todays Quote:</h1> 
            <p className="quote-text">{quote}</p>
            <button onClick={generateQuote} className="quote-button">New Quote</button>
-        </div>
-    )
-    
- }
+           </div>
+  );
+};
