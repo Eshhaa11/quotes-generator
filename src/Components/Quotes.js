@@ -7,5 +7,6 @@ const quotes = [
     "If you are working on something exciting, it will keep you motivated.",
     "Great things never come from comfort zones.",
     "Do something today that your future self will thank you for.",
+    "Dream bigger. Do bigger.",
        
 ]
