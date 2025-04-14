@@ -32,6 +32,12 @@ const quotes = [
     const generateQuote = () => {
         const randomIndex = Math.floor(Math.random() * quotes.length);
         setQuote(quotes[randomIndex]);
-    }
+    };
+
+    return (
+        <div className="quote-cont">
+            
+        </div>
+    )
     
  }
