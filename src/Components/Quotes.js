@@ -37,6 +37,7 @@ const quotes = [
     return (
         <div className="quote-cont">
            <h1>Todays Quote:</h1> 
+           <p className="quote-text">{quote}</p>
         </div>
     )
     
