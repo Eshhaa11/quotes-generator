@@ -5,7 +5,8 @@
   }
   
 .quote-cont h1 {
-    font-family: Tahoma;
+    font-family: Verdana;
+    font-size: 26px;
     color: cornflowerblue;
     margin-top: 10px;
 }
