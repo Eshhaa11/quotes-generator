@@ -8,5 +8,6 @@ const quotes = [
     "Great things never come from comfort zones.",
     "Do something today that your future self will thank you for.",
     "Dream bigger. Do bigger.",
+    "Don't stop when you're tired. Stop when you're done.",
        
 ]
