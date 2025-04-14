@@ -15,5 +15,6 @@ const quotes = [
     "Push yourself, because no one else is going to do it for you.",
     "Wake up with determination. Go to bed with satisfaction.",
     "Sometimes later becomes never. Do it now.",
+    "Don't watch the clock; do what it does. Keep going.",
        
 ]
