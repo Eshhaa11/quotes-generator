@@ -23,5 +23,6 @@ const quotes = [
     "First, solve the problem. Then, write the code.",
     "Success is the sum of small efforts repeated day in and day out.",
     "It's not whether you get knocked down, it's whether you get up.",
+    "The best way to get started is to quit talking and begin doing.",
        
 ]
