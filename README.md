@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/quotes.jpg)
+
 # 💬 Quotes Generator
 
 A simple **React** application that displays a randomly selected quote with the click of a button. Perfect for daily motivation, tech inspiration, and celebrating the spirit of parenthood and persistence.
